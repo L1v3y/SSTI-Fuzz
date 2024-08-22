@@ -26,8 +26,8 @@ This project consists of three main components:
 
 1. **Clone the Repository:**
    ```bash    
-   git clone https://github.com/your-username/ssti-vulnerability-checker.git
-   cd ssti-vulnerability-checker
+   git clone https://github.com/L1v3y/SSTI-Fuzz.git
+   cd SSTI-Fuzz
     ```
 
 2. **Install Required Packages:**
